@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8cbd76d4-60bc-402b-807e-3de6c55084db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goodpair.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goodpair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/goodpair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +33,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/New folder/goodpair/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
@@ -50,12 +46,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689765585931</updated>
-      <workItem from="1689765590176" duration="372000" />
+      <workItem from="1689765590176" duration="681000" />
     </task>
+    <task id="LOCAL-00001" summary="goodpair">
+      <option name="closed" value="true" />
+      <created>1689766203900</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689766203900</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="goodpair" />
+    <option name="LAST_COMMIT_MESSAGE" value="goodpair" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
